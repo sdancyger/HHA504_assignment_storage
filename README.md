@@ -30,4 +30,19 @@ HHA 504- Assignment: Working with Cloud Storage in Azure and GCP
 
 ![PIC](azurepix/az12.png)
 
+![PIC](azurepix/az13.png)
+
+![PIC](azurepix/az14.png)
+
+![PIC](azurepix/az15.png)
+
+![PIC](azurepix/az16.png)
+
+![PIC](azurepix/az17.png)
+
+
+
+
+
 ## *GCP*
+
